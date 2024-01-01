@@ -134,7 +134,7 @@
             this.guna2Button5.ForeColor = System.Drawing.Color.Black;
             this.guna2Button5.Image = global::OOPFinalProject_1.Properties.Resources.Account;
             this.guna2Button5.ImageAlign = System.Windows.Forms.HorizontalAlignment.Left;
-            this.guna2Button5.Location = new System.Drawing.Point(24, 667);
+            this.guna2Button5.Location = new System.Drawing.Point(24, 656);
             this.guna2Button5.Name = "guna2Button5";
             this.guna2Button5.Size = new System.Drawing.Size(246, 45);
             this.guna2Button5.TabIndex = 8;
